@@ -14,6 +14,16 @@ It features a modern Tkinter GUI, and a smooth averaging system for stable age p
 ✅ Real-time results displayed on screen with bounding boxes
 ✅ Completely offline — no cloud dependencies
 
+# Key Technologies
+
+MediaPipe — face detection (fast and lightweight, by Google)
+
+OpenCV DNN (Caffe) — for age prediction using the pre-trained age_net.caffemodel
+
+Tkinter GUI — simple interface for upload/start/stop webcam
+
+NumPy — for averaging and smoothing age predictions
+
 # How it works
 
 Face Detection:
