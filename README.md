@@ -30,3 +30,11 @@ Result Display:
 The predicted age is displayed on the image (and in the GUI label).
 For webcam mode, results are averaged across the last few frames for smooth prediction.
 
+# Demo Screenshots
+
+<img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/be265def-45c8-4db4-ae6b-9265cc828871" />
+
+<img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/995a5a96-8eba-4031-a51c-ff9632ca97b4" />
+
+<img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/ba3152cd-1592-4e67-9a3f-fdb817c96cf4" />
+
