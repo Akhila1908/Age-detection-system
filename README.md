@@ -34,7 +34,9 @@ For webcam mode, results are averaged across the last few frames for smooth pred
 
 <img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/be265def-45c8-4db4-ae6b-9265cc828871" />
 
-<img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/995a5a96-8eba-4031-a51c-ff9632ca97b4" />
+<img width="820" height="500" alt="Screenshot 2025-10-27 111328" src="https://github.com/user-attachments/assets/87b7cb53-abd7-4006-ae0e-12e69117669d" />
 
-<img width="826" height="502" alt="Screenshot 2025-10-27 110647" src="https://github.com/user-attachments/assets/ba3152cd-1592-4e67-9a3f-fdb817c96cf4" />
+<img width="821" height="499" alt="Screenshot 2025-10-27 111453" src="https://github.com/user-attachments/assets/037ccca8-8452-4ef5-b4e9-88a1d1c205bc" />
+
+
 
