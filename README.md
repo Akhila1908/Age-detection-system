@@ -16,17 +16,17 @@ It features a modern Tkinter GUI, and a smooth averaging system for stable age p
 
 # How it works
 
-# Face Detection:
+Face Detection:
 MediaPipe detects face bounding boxes in images or video frames.
 
-# Face Cropping:
+Face Cropping:
 The detected region is cropped and resized to the required model input size (227×227).
 
-# Age Prediction:
+Age Prediction:
 The pre-trained AgeNet model predicts the probability distribution across 8 predefined age ranges.
 The project converts these ranges to expected (mean) age for easier readability.
 
-# Result Display:
+Result Display:
 The predicted age is displayed on the image (and in the GUI label).
 For webcam mode, results are averaged across the last few frames for smooth prediction.
 
