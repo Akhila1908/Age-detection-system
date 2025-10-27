@@ -7,11 +7,17 @@ It features a modern Tkinter GUI, and a smooth averaging system for stable age p
 # Features
 
 🧍 Detects and tracks faces using MediaPipe
+
 🧠 Predicts Age and Gender using OpenCV deep learning models
+
 📷 Works with both live webcam feed and uploaded images
+
 📊 Smooths predictions over multiple frames for stability
+
 🖥️ Interactive Tkinter GUI with buttons for image upload and live capture
+
 ✅ Real-time results displayed on screen with bounding boxes
+
 ✅ Completely offline — no cloud dependencies
 
 # Key Technologies
